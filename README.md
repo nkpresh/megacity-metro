@@ -82,7 +82,3 @@ After you clone the project, follow these steps to start playing:
 ## Disclaimer
 
 This repository does not accept pull requests, GitHub review requests, or any other GitHub-hosted issue management requests.
-
-## License
-
-Megacity Metro is licensed under the Unity Companion License. See [LICENCE](LICENCE.md) for more legal information.
